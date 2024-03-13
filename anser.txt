@@ -1,0 +1,6 @@
+D:\code\code_py\personal project\orig_0.8_add.txt相似度：99.65%
+D:\code\code_py\personal project\orig_0.8_del.txt相似度：99.0%
+D:\code\code_py\personal project\orig_0.8_dis_1.txt相似度：99.92%
+D:\code\code_py\personal project\orig_0.8_dis_10.txt相似度：99.7%
+D:\code\code_py\personal project\orig_0.8_dis_15.txt相似度：99.08%
+D:\code\code_py\personal project\orig.txt相似度：100.0%
