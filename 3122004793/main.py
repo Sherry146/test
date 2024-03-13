@@ -49,7 +49,7 @@ similarity = calculate_cosine_similarity(original, text1)
 similarity1 =round(similarity,4)
 similarity1 *= 100
 
-"""
+"""p
 print("文本1:", original)
 print("文本2:", text1)
 """
